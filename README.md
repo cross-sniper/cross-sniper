@@ -18,8 +18,6 @@ I'm well-versed in a variety of technologies and languages, including:
 
 Feel free to reach out if you want to discuss anything related to these or just want to chat about technology and development in general. I'm always up for a good coding conversation!
 
-💌 **You can contact me via [email](mailto:cts.contact.br@gmail.com) if you have any questions or opportunities you'd like to discuss.**
-
 ---
 
 [![my projects](https://img.shields.io/github/projects/cross-sniper)](https://github.com/cross-sniper)
