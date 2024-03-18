@@ -14,3 +14,7 @@ summary{
 details{
 	background: rgb(20,20,20);
 }
+a {
+	font:bolder;
+	color:red;
+}
