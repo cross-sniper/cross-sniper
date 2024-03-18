@@ -22,3 +22,5 @@ Feel free to reach out if you want to discuss anything related to these or just 
 
 [![my projects](https://img.shields.io/github/projects/cross-sniper)](https://github.com/cross-sniper)
 [![GitHub Stars](https://img.shields.io/github/stars/cross-sniper)](https://github.com/cross-sniper)
+
+<a rel="me" href="https://cyberfurz.social/@cross_sniper">me on Mastodon</a>
