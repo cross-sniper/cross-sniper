@@ -1,0 +1,16 @@
+body{
+	background: black;
+	color: white;
+	font: 20px bold;
+	font-family: monospace;
+}
+
+summary{
+	background: rgb(30,30,30);
+	border:ridge 1px white;
+	border-radius: 10px;
+}
+
+details{
+	background: rgb(20,20,20);
+}
