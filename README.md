@@ -11,7 +11,7 @@
 
 I'm well-versed in a variety of technologies and languages, including:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cross-sniper&theme=tokyonight)
----
+
 
 [![my projects](https://img.shields.io/github/projects/cross-sniper)](https://github.com/cross-sniper)
 [![GitHub Stars](https://img.shields.io/github/stars/cross-sniper)](https://github.com/cross-sniper)
