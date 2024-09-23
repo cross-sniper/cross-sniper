@@ -10,11 +10,7 @@
 ### 🔧 My Tech Stack
 
 I'm well-versed in a variety of technologies and languages, including:
-
-- Python 🐍
-- JavaScript 🌐
-- C++ 🔍
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cross-sniper&theme=tokyonight)
 ---
 
 [![my projects](https://img.shields.io/github/projects/cross-sniper)](https://github.com/cross-sniper)
